@@ -32,5 +32,3 @@ eureka:
   instance:
     instance-id: microservicecloud-dept8001
     prefer-ip-address: true     #访问路径可以显示IP地址	 
-	
-#文件已经修改了
